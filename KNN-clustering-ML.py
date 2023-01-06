@@ -17,6 +17,7 @@ t_initial = time.time()
 #Columns names
 col_names = ["region","tenure","age","marital","address","income","ed","employ","retire","gender","reside","custcat"]
 #Read dataframe and skip first raw that contain header
+#Data from https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/teleCust1000t.csv
 df = pd.read_csv('teleCust1000t.csv',names=col_names, header = None, skiprows = 1)
 
 #print Dataframe information
