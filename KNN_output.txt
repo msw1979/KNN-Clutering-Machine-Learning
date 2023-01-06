@@ -1,0 +1,11 @@
+K value = 1, Train set Accuracy: 1.00 +/- 0.00, Test set Accuracy: 0.30 +/- 0.03
+K value = 2, Train set Accuracy: 0.62 +/- 0.02, Test set Accuracy: 0.29 +/- 0.03
+K value = 3, Train set Accuracy: 0.57 +/- 0.02, Test set Accuracy: 0.32 +/- 0.03
+K value = 4, Train set Accuracy: 0.55 +/- 0.02, Test set Accuracy: 0.32 +/- 0.03
+K value = 5, Train set Accuracy: 0.54 +/- 0.02, Test set Accuracy: 0.32 +/- 0.03
+K value = 6, Train set Accuracy: 0.52 +/- 0.02, Test set Accuracy: 0.31 +/- 0.03
+K value = 7, Train set Accuracy: 0.51 +/- 0.02, Test set Accuracy: 0.34 +/- 0.03
+K value = 8, Train set Accuracy: 0.49 +/- 0.02, Test set Accuracy: 0.33 +/- 0.03
+K value = 9, Train set Accuracy: 0.50 +/- 0.02, Test set Accuracy: 0.34 +/- 0.03
+K value = 10, Train set Accuracy: 0.49 +/- 0.02, Test set Accuracy: 0.33 +/- 0.03
+The best accuracy was with 0.34 with k= 9
