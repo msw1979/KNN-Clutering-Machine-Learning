@@ -1,6 +1,6 @@
 # KNN Clutering Machine Learning
 This is a PYTHON code that uses Machine Learning to perform KNN Clustering.
-The data are taken from IBM Developer Skills Network and can be found athttps://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/drug200.csv. 
+The data are taken from IBM Developer Skills Network and can be found at https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork/labs/Module%203/data/teleCust1000t.csv. 
 This code use KNN Clustering and loop over K value to find the one that produce best test accuracy. 
 The code will generate: 
 1) Histogram plot for every feature. 
